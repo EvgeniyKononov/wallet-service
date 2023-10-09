@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.ylab.walletservice.in","l":"Console"},{"p":"io.ylab.walletservice","l":"Main"},{"p":"io.ylab.walletservice.model.player","l":"Player"},{"p":"io.ylab.walletservice.model.transaction","l":"Transaction"},{"p":"io.ylab.walletservice.service","l":"WalletInMemoryService"}];updateSearchResults();

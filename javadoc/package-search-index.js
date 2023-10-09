@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.ylab.walletservice"},{"l":"io.ylab.walletservice.in"},{"l":"io.ylab.walletservice.model.player"},{"l":"io.ylab.walletservice.model.transaction"},{"l":"io.ylab.walletservice.service"}];updateSearchResults();

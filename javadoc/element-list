@@ -1,0 +1,5 @@
+io.ylab.walletservice
+io.ylab.walletservice.in
+io.ylab.walletservice.model.player
+io.ylab.walletservice.model.transaction
+io.ylab.walletservice.service
